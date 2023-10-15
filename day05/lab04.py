@@ -4,10 +4,8 @@
 #add 1 or 2 duplicate
 #print the non duplicate number
 
-num=input("enter the number\n")
-print(num)
-a=set(num)
-print(a)
+#numbers={int(input(f"enter the 5 number{i+1}:"))for i in range(5)}
+#print(numbers)
 
-
-
+name=True
+print(name)
